@@ -54,7 +54,7 @@
 ### 方式一：命令行部署
 
 ```bash
-git clone https://github.com/wangwangit/SubsTracker.git
+git clone https://github.com/harborq/SubsTracker.git
 cd SubsTracker
 npm install
 
@@ -176,8 +176,5 @@ MIT License。
 
 ---
 
-## 关注作者
-
-![image](https://github.com/user-attachments/assets/96bae085-4299-4377-9958-9a3a11294efc)
 
 CDN 加速由 Tencent EdgeOne 赞助。
